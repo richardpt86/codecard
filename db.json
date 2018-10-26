@@ -1,7 +1,4 @@
 {
-	"template": "template[1-11]",
-	"title": "Hello World",
-	"subtitle": "This is a subtitle",
-	"bodtext": "This is the body",
-	"backgroundColor": "white"
+  "id": 1,
+  "title": "hello"
 }
