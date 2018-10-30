@@ -1,2 +1,0 @@
-# codecard
-Oracle Code Card 
